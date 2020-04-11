@@ -1,4 +1,4 @@
-# what-todo
+# What-Todo
 
 Feeling bored? Get your random task based on your selected category.
 For e.g select exercise category and get your task to do
@@ -14,6 +14,7 @@ https://ayushnawani.github.io/what-todo
 - [x] Create Categories
 - [x] Add Images for tasks
 - [ ] Add More Tasks and Categories
+- [ ] Add Form Validation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

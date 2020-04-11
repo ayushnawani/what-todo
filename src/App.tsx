@@ -112,7 +112,7 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col">
-          <h1>What Todo</h1>
+          <h1>What To do?</h1>
         </div>
       </div>
       {/* How to write select */}
