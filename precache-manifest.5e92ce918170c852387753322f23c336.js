@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9655c367743c9658d4b8d98c9dc10cd",
+    "revision": "fc83d4e036f57e154023e8229e86cbdf",
     "url": "/what-todo/index.html"
   },
   {
-    "revision": "9d2e0b18bc7a753cf1e7",
+    "revision": "2568186430ab63adbce5",
     "url": "/what-todo/static/css/main.10f7d32c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/what-todo/static/js/2.6d3e9c91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d2e0b18bc7a753cf1e7",
-    "url": "/what-todo/static/js/main.5bcd07c6.chunk.js"
+    "revision": "2568186430ab63adbce5",
+    "url": "/what-todo/static/js/main.e4b1633b.chunk.js"
   },
   {
     "revision": "ed8ff94689223eba357d",
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/what-todo/static/media/bored.274fcec9.jpg"
   },
   {
+    "revision": "4587932075db914505a6962d3b8d55bb",
+    "url": "/what-todo/static/media/burger.45879320.jpg"
+  },
+  {
     "revision": "71401916b65cb63cec2fbc4fbefc987f",
     "url": "/what-todo/static/media/chinup.71401916.jpg"
   },
   {
     "revision": "fd0dc752445ec3a5675c73a3008cf047",
     "url": "/what-todo/static/media/coffee.fd0dc752.jpg"
+  },
+  {
+    "revision": "57def8c3b1b80481f5fd332ea9741af2",
+    "url": "/what-todo/static/media/fruitsalad.57def8c3.jpg"
   },
   {
     "revision": "9844d220b70f300be1603d5b56738801",
@@ -46,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e689973603230c7f343cc6cddaec8d74",
     "url": "/what-todo/static/media/pasta.e6899736.jpeg"
+  },
+  {
+    "revision": "cf317a06a12dde74e3677eb537f43680",
+    "url": "/what-todo/static/media/pizza.cf317a06.jpg"
   },
   {
     "revision": "2da6893007bca5490bad881aabb30a0c",
