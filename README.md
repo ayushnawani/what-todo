@@ -1,4 +1,4 @@
-# What-Todo
+# What to do?
 
 Feeling bored? Get your random task based on your selected category.
 For e.g select exercise category and get your task to do
