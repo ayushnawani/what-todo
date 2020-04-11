@@ -1,3 +1,20 @@
+# what-todo
+
+Feeling bored? Get your random task based on your selected category.
+For e.g select exercise category and get your task to do
+one random exercise.
+
+# Url
+
+https://ayushnawani.github.io/what-todo
+
+## Todo
+
+- [x] Create Basic UI Layout
+- [x] Create Categories
+- [x] Add Images for tasks
+- [ ] Add More Tasks and Categories
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

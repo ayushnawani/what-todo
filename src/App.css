@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: #17293b;
+}
+
+div {
+  color: #ffffff;
+}
+
+.task-img {
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+}
+
+.task {
+  margin-top: 20px;
+}
