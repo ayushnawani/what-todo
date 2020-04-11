@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/what-todo/static/css/main.10f7d32c.chunk.css",
+    "main.js": "/what-todo/static/js/main.7fce9e87.chunk.js",
+    "main.js.map": "/what-todo/static/js/main.7fce9e87.chunk.js.map",
+    "runtime-main.js": "/what-todo/static/js/runtime-main.0b1ce731.js",
+    "runtime-main.js.map": "/what-todo/static/js/runtime-main.0b1ce731.js.map",
+    "static/js/2.6d3e9c91.chunk.js": "/what-todo/static/js/2.6d3e9c91.chunk.js",
+    "static/js/2.6d3e9c91.chunk.js.map": "/what-todo/static/js/2.6d3e9c91.chunk.js.map",
+    "index.html": "/what-todo/index.html",
+    "precache-manifest.2c7fe243730df8bcd09a5cc446a25040.js": "/what-todo/precache-manifest.2c7fe243730df8bcd09a5cc446a25040.js",
+    "service-worker.js": "/what-todo/service-worker.js",
+    "static/css/main.10f7d32c.chunk.css.map": "/what-todo/static/css/main.10f7d32c.chunk.css.map",
+    "static/js/2.6d3e9c91.chunk.js.LICENSE.txt": "/what-todo/static/js/2.6d3e9c91.chunk.js.LICENSE.txt",
+    "static/media/bored.jpg": "/what-todo/static/media/bored.274fcec9.jpg",
+    "static/media/chinup.jpg": "/what-todo/static/media/chinup.71401916.jpg",
+    "static/media/coffee.jpg": "/what-todo/static/media/coffee.fd0dc752.jpg",
+    "static/media/jogging.png": "/what-todo/static/media/jogging.9844d220.png",
+    "static/media/paneer.jpg": "/what-todo/static/media/paneer.5e86ffca.jpg",
+    "static/media/pasta.jpeg": "/what-todo/static/media/pasta.e6899736.jpeg",
+    "static/media/pushup.jpg": "/what-todo/static/media/pushup.2da68930.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1ce731.js",
+    "static/js/2.6d3e9c91.chunk.js",
+    "static/css/main.10f7d32c.chunk.css",
+    "static/js/main.7fce9e87.chunk.js"
+  ]
+}
