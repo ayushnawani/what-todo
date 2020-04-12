@@ -45,12 +45,12 @@ div {
   color: #ffffff;
 }
 
-.task-img {
+.activity-img {
   width: 400px;
   height: 400px;
   object-fit: contain;
 }
 
-.task {
+.activity {
   margin-top: 20px;
 }

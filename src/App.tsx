@@ -81,7 +81,8 @@ function App() {
     level: number;
     img: string;
   }>({
-    name: 'Feeling Bored? Select your category and click "Get my random task"',
+    name:
+      'Feeling Bored? Select your category and click "Get my random activity"',
     description: '',
     level: 1,
     img: require('./assets/bored.jpg'),
@@ -140,13 +141,17 @@ function App() {
         ))}
 
         <button className="btn btn-primary" type="submit">
-          Get my random task
+          Get my random activity
         </button>
       </form>
-      <div className="row task">
+      <div className="row activity">
         <div className="col">
           <h4>{todo.name}</h4>
-          <img className="img-thumbnail task-img" src={todo.img} alt="img" />
+          <img
+            className="img-thumbnail activity-img"
+            src={todo.img}
+            alt="img"
+          />
         </div>
       </div>
     </div>

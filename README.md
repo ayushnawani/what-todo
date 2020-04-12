@@ -1,7 +1,7 @@
 # What to do?
 
-Feeling bored? Get your random task based on your selected category.
-For e.g select exercise category and get your task to do
+Feeling bored? Get your random activity based on your selected category.
+For e.g select exercise category and get your activity to do
 one random exercise.
 
 # Url
@@ -12,9 +12,10 @@ https://ayushnawani.github.io/what-todo
 
 - [x] Create Basic UI Layout
 - [x] Create Categories
-- [x] Add Images for tasks
-- [ ] Add More Tasks and Categories
+- [x] Add Images for activities
+- [ ] Add More Activities and Categories
 - [ ] Add Form Validation
+- [ ] Add Select Level
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
