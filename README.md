@@ -14,7 +14,8 @@ https://ayushnawani.github.io/what-todo
 - [x] Add Images for activities
 - [ ] Add More Activities and Categories
 - [ ] Add Form Validation
-- [ ] Add Select Level
+- [ ] Add Level Up
+- [ ] Improve Randomizing Algorithm
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
