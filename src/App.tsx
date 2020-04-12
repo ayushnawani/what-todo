@@ -62,7 +62,7 @@ const dataSet: {
   ],
   cooking: [
     {
-      name: 'Cook Panner in 30 mins',
+      name: 'Cook Panner Curry in 50 mins',
       description: 'Do 20 Pushups in 60 seconds',
       level: 1,
       img: require('./assets/paneer.jpg'),
@@ -181,20 +181,32 @@ function App() {
     event.preventDefault();
     const data = new FormData(event.target);
     console.log('handleSubmit -> data', data.entries());
-    const todoSet = [];
+    const todoSet: Array<{
+      name: string;
+      description: string;
+      level: number;
+      img: string;
+    }> = [];
     for (let [key] of data.entries()) {
       const list = dataSet[key];
       todoSet.push(...list.filter(({ level }) => level === myLevel));
     }
 
-    if (todoSet.length > 0) {
+    function setMyTodo(): void {
       let index = randomNumber(todoSet.length);
       console.log('handleSubmit -> index', index);
       const matched = todoSet[index];
       console.log('handleSubmit -> matched', matched);
-      // if (matched) {
-      setTodo(matched);
+      if (matched.name === todo.name) {
+        setMyTodo();
+      } else {
+        setTodo(matched);
+      }
       // }
+    }
+
+    if (todoSet.length > 0) {
+      setMyTodo();
     }
   }
 
