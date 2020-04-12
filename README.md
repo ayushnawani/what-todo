@@ -1,8 +1,7 @@
 # What to do?
 
 Feeling bored? Get your random activity based on your selected category.
-For e.g select exercise category and get your activity to do
-one random exercise.
+For e.g select exercise category and get your one random exercise activity to do.
 
 # Url
 
