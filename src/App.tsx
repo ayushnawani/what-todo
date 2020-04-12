@@ -253,14 +253,14 @@ function App() {
                 className="btn btn-success ml-3"
                 onClick={increaseLevel}
               >
-                Level me up
+                Level up
               </button>
               <button
                 className="btn btn-danger ml-3"
                 disabled={myLevel === 1}
                 onClick={decreaseLevel}
               >
-                Level me down
+                Level down
               </button>
               <h4 className="ml-2 mt-2 inline-block">
                 You are at level {myLevel}
