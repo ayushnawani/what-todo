@@ -280,18 +280,21 @@ function App() {
           <ul className="list-group list-group-flush">
             <li className="list-group-item">More categories to choose</li>
             <li className="list-group-item">More levels</li>
+            <li className="list-group-item">Drag your Meeseeks</li>
           </ul>
         </div>
       </div>
 
       <div className="fixed-bottom activity-assistant">
-        <img
-          className="btn"
-          onClick={addMeeseeks}
-          src={require('./assets/meeseeks_box.png')}
-          alt="assistant"
-        />
-        <div>Summon your Meeseeks</div>
+        <div className="flex flex-center justify-content-center">
+          <img
+            className="btn"
+            onClick={addMeeseeks}
+            src={require('./assets/meeseeks_box.png')}
+            alt="assistant"
+          />
+        </div>
+        <div>Need Help? Summon your Meeseeks</div>
       </div>
       {meeseeks.map(({ img, position }, index) => {
         return (
