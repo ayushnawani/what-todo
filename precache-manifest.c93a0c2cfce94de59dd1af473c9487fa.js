@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ad343f4957f330cb57c5a32c8d6c20c",
+    "revision": "1a57b5093a3afcdbffd7510af159d45c",
     "url": "/what-todo/index.html"
   },
   {
-    "revision": "a1146aef4ef4b7712370",
-    "url": "/what-todo/static/css/main.a93ca699.chunk.css"
+    "revision": "58e71fad649839c21faa",
+    "url": "/what-todo/static/css/main.66fc7e8b.chunk.css"
   },
   {
-    "revision": "c377dc8220443678a210",
-    "url": "/what-todo/static/js/2.6d3e9c91.chunk.js"
+    "revision": "bf043a673e860784c874",
+    "url": "/what-todo/static/js/2.e4e8c89a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/what-todo/static/js/2.6d3e9c91.chunk.js.LICENSE.txt"
+    "url": "/what-todo/static/js/2.e4e8c89a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1146aef4ef4b7712370",
-    "url": "/what-todo/static/js/main.64892f37.chunk.js"
+    "revision": "58e71fad649839c21faa",
+    "url": "/what-todo/static/js/main.5cf22197.chunk.js"
   },
   {
     "revision": "ed8ff94689223eba357d",
@@ -48,6 +48,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/what-todo/static/media/jogging.9844d220.png"
   },
   {
+    "revision": "0d325aad2452152f692204d8c08c08b5",
+    "url": "/what-todo/static/media/meeseeks_assist.0d325aad.png"
+  },
+  {
+    "revision": "e097cafaf2af0ea7e569d4e181b9caf2",
+    "url": "/what-todo/static/media/meeseeks_box.e097cafa.png"
+  },
+  {
+    "revision": "84aa0398cc0c6f5d436e91934ec6f349",
+    "url": "/what-todo/static/media/meeseeks_cooking.84aa0398.png"
+  },
+  {
+    "revision": "437c4b4a76600c301018542322e636b8",
+    "url": "/what-todo/static/media/meeseeks_dance.437c4b4a.png"
+  },
+  {
+    "revision": "4da0d6e83d02910cfb7b13cc790fd678",
+    "url": "/what-todo/static/media/meeseeks_gun.4da0d6e8.png"
+  },
+  {
+    "revision": "773ed10efb24f9f94b3ad0ba0b9c0635",
+    "url": "/what-todo/static/media/meeseeks_service.773ed10e.png"
+  },
+  {
     "revision": "5e86ffcac34fa3135befbed7f4ff3c76",
     "url": "/what-todo/static/media/paneer.5e86ffca.jpg"
   },
@@ -60,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/what-todo/static/media/pizza.cf317a06.jpg"
   },
   {
-    "revision": "2da6893007bca5490bad881aabb30a0c",
-    "url": "/what-todo/static/media/pushup.2da68930.jpg"
+    "revision": "85d66b8fd244ae9d0c3a0d8051dc55cc",
+    "url": "/what-todo/static/media/pushup.85d66b8f.jpg"
   }
 ]);

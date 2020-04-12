@@ -1,32 +1,38 @@
 {
   "files": {
-    "main.css": "/what-todo/static/css/main.a93ca699.chunk.css",
-    "main.js": "/what-todo/static/js/main.64892f37.chunk.js",
-    "main.js.map": "/what-todo/static/js/main.64892f37.chunk.js.map",
+    "main.css": "/what-todo/static/css/main.66fc7e8b.chunk.css",
+    "main.js": "/what-todo/static/js/main.5cf22197.chunk.js",
+    "main.js.map": "/what-todo/static/js/main.5cf22197.chunk.js.map",
     "runtime-main.js": "/what-todo/static/js/runtime-main.0b1ce731.js",
     "runtime-main.js.map": "/what-todo/static/js/runtime-main.0b1ce731.js.map",
-    "static/js/2.6d3e9c91.chunk.js": "/what-todo/static/js/2.6d3e9c91.chunk.js",
-    "static/js/2.6d3e9c91.chunk.js.map": "/what-todo/static/js/2.6d3e9c91.chunk.js.map",
+    "static/js/2.e4e8c89a.chunk.js": "/what-todo/static/js/2.e4e8c89a.chunk.js",
+    "static/js/2.e4e8c89a.chunk.js.map": "/what-todo/static/js/2.e4e8c89a.chunk.js.map",
     "index.html": "/what-todo/index.html",
-    "precache-manifest.1b9197b022bc0b4b639ce593b7900773.js": "/what-todo/precache-manifest.1b9197b022bc0b4b639ce593b7900773.js",
+    "precache-manifest.c93a0c2cfce94de59dd1af473c9487fa.js": "/what-todo/precache-manifest.c93a0c2cfce94de59dd1af473c9487fa.js",
     "service-worker.js": "/what-todo/service-worker.js",
-    "static/css/main.a93ca699.chunk.css.map": "/what-todo/static/css/main.a93ca699.chunk.css.map",
-    "static/js/2.6d3e9c91.chunk.js.LICENSE.txt": "/what-todo/static/js/2.6d3e9c91.chunk.js.LICENSE.txt",
+    "static/css/main.66fc7e8b.chunk.css.map": "/what-todo/static/css/main.66fc7e8b.chunk.css.map",
+    "static/js/2.e4e8c89a.chunk.js.LICENSE.txt": "/what-todo/static/js/2.e4e8c89a.chunk.js.LICENSE.txt",
     "static/media/bored.jpg": "/what-todo/static/media/bored.274fcec9.jpg",
     "static/media/burger.jpg": "/what-todo/static/media/burger.45879320.jpg",
     "static/media/chinup.jpg": "/what-todo/static/media/chinup.71401916.jpg",
     "static/media/coffee.jpg": "/what-todo/static/media/coffee.fd0dc752.jpg",
     "static/media/fruitsalad.jpg": "/what-todo/static/media/fruitsalad.57def8c3.jpg",
     "static/media/jogging.png": "/what-todo/static/media/jogging.9844d220.png",
+    "static/media/meeseeks_assist.png": "/what-todo/static/media/meeseeks_assist.0d325aad.png",
+    "static/media/meeseeks_box.png": "/what-todo/static/media/meeseeks_box.e097cafa.png",
+    "static/media/meeseeks_cooking.png": "/what-todo/static/media/meeseeks_cooking.84aa0398.png",
+    "static/media/meeseeks_dance.png": "/what-todo/static/media/meeseeks_dance.437c4b4a.png",
+    "static/media/meeseeks_gun.png": "/what-todo/static/media/meeseeks_gun.4da0d6e8.png",
+    "static/media/meeseeks_service.png": "/what-todo/static/media/meeseeks_service.773ed10e.png",
     "static/media/paneer.jpg": "/what-todo/static/media/paneer.5e86ffca.jpg",
     "static/media/pasta.jpeg": "/what-todo/static/media/pasta.e6899736.jpeg",
     "static/media/pizza.jpg": "/what-todo/static/media/pizza.cf317a06.jpg",
-    "static/media/pushup.jpg": "/what-todo/static/media/pushup.2da68930.jpg"
+    "static/media/pushup.jpg": "/what-todo/static/media/pushup.85d66b8f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b1ce731.js",
-    "static/js/2.6d3e9c91.chunk.js",
-    "static/css/main.a93ca699.chunk.css",
-    "static/js/main.64892f37.chunk.js"
+    "static/js/2.e4e8c89a.chunk.js",
+    "static/css/main.66fc7e8b.chunk.css",
+    "static/js/main.5cf22197.chunk.js"
   ]
 }
